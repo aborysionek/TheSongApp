@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="pl.sda.android.thesongapp.MainActivity">
+    <item
+        android:id="@+id/action_sortByName"
+        android:orderInCategory="100"
+        android:title="@string/sort_by_song_titles"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_sortByArtist"
+        android:orderInCategory="200"
+        android:title="@string/sort_by_artist_names"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_sortByReleaseDate"
+        android:orderInCategory="300"
+        android:title="@string/sort_by_release_dates"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_sortByDatabaseType"
+        android:orderInCategory="400"
+        android:title="@string/sort_by_databases"
+        app:showAsAction="never" />
+</menu>

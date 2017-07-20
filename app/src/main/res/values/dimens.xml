@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="one_dp">1dp</dimen>
+    <dimen name="searchengine_margin">150dp</dimen>
+</resources>

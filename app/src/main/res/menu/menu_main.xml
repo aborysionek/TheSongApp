@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="pl.sda.android.thesongapp.MainActivity">
+    <item
+        android:id="@+id/action_task"
+        android:orderInCategory="100"
+        android:title="@string/what_was_the_task"
+        app:showAsAction="never" />
+</menu>

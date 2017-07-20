@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TheSongApp</string>
+    <string name="combo">combo</string>
+    <string name="offline">offline</string>
+    <string name="online">online</string>
+    <string name="welcome_to_the_song_list_application">Search the desired and click to choose source:</string>
+    <string name="created_by_adrian_borysionek_for_tooploox">Created by Adrian Borysionek for Tooploox, \n2017-07-16</string>
+    <string name="what_was_the_task">What was the task?</string>
+    <string name="title_activity_list">List</string>
+    <string name="title_activity_list_viewing">ListViewing</string>
+    <string name="loadData">The data is loading</string>
+    <string name="google_logo_sample_image">https://www.google.pl/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png</string>
+    <string name="sort_by_song_titles">Sort by song titles</string>
+    <string name="sort_by_artist_names">Sort by artist names</string>
+    <string name="sort_by_release_dates">Sort by release dates</string>
+    <string name="sort_by_databases">Sort by databases</string>
+</resources>
